@@ -1,0 +1,13 @@
+F:\1\Chapter6\ListViewStrings\ListViewStrings\bin\Debug\netstandard2.0\ListViewStrings.deps.json
+F:\1\Chapter6\ListViewStrings\ListViewStrings\bin\Debug\netstandard2.0\ListViewStrings.dll
+F:\1\Chapter6\ListViewStrings\ListViewStrings\bin\Debug\netstandard2.0\ref\ListViewStrings.dll
+F:\1\Chapter6\ListViewStrings\ListViewStrings\bin\Debug\netstandard2.0\ListViewStrings.pdb
+F:\1\Chapter6\ListViewStrings\ListViewStrings\obj\Debug\netstandard2.0\ListViewStrings.csprojAssemblyReference.cache
+F:\1\Chapter6\ListViewStrings\ListViewStrings\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\1\Chapter6\ListViewStrings\ListViewStrings\obj\Debug\netstandard2.0\ListViewStrings.xaml.g.cs
+F:\1\Chapter6\ListViewStrings\ListViewStrings\obj\Debug\netstandard2.0\ListViewStrings.AssemblyInfoInputs.cache
+F:\1\Chapter6\ListViewStrings\ListViewStrings\obj\Debug\netstandard2.0\ListViewStrings.AssemblyInfo.cs
+F:\1\Chapter6\ListViewStrings\ListViewStrings\obj\Debug\netstandard2.0\XamlC.stamp
+F:\1\Chapter6\ListViewStrings\ListViewStrings\obj\Debug\netstandard2.0\ListViewStrings.dll
+F:\1\Chapter6\ListViewStrings\ListViewStrings\obj\Debug\netstandard2.0\ref\ListViewStrings.dll
+F:\1\Chapter6\ListViewStrings\ListViewStrings\obj\Debug\netstandard2.0\ListViewStrings.pdb

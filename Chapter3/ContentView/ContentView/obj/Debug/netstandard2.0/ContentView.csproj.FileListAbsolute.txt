@@ -1,0 +1,14 @@
+F:\1\Chapter3\ContentView\ContentView\bin\Debug\netstandard2.0\ContentView.deps.json
+F:\1\Chapter3\ContentView\ContentView\bin\Debug\netstandard2.0\ContentView.dll
+F:\1\Chapter3\ContentView\ContentView\bin\Debug\netstandard2.0\ref\ContentView.dll
+F:\1\Chapter3\ContentView\ContentView\bin\Debug\netstandard2.0\ContentView.pdb
+F:\1\Chapter3\ContentView\ContentView\obj\Debug\netstandard2.0\ContentView.csprojAssemblyReference.cache
+F:\1\Chapter3\ContentView\ContentView\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\1\Chapter3\ContentView\ContentView\obj\Debug\netstandard2.0\ContentView.xaml.g.cs
+F:\1\Chapter3\ContentView\ContentView\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\1\Chapter3\ContentView\ContentView\obj\Debug\netstandard2.0\ContentView.AssemblyInfoInputs.cache
+F:\1\Chapter3\ContentView\ContentView\obj\Debug\netstandard2.0\ContentView.AssemblyInfo.cs
+F:\1\Chapter3\ContentView\ContentView\obj\Debug\netstandard2.0\XamlC.stamp
+F:\1\Chapter3\ContentView\ContentView\obj\Debug\netstandard2.0\ContentView.dll
+F:\1\Chapter3\ContentView\ContentView\obj\Debug\netstandard2.0\ref\ContentView.dll
+F:\1\Chapter3\ContentView\ContentView\obj\Debug\netstandard2.0\ContentView.pdb

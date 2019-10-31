@@ -1,0 +1,13 @@
+F:\1\Chapter3\FlexLayoutEx2\FlexLayoutEx2\bin\Debug\netstandard2.0\FlexLayoutEx2.deps.json
+F:\1\Chapter3\FlexLayoutEx2\FlexLayoutEx2\bin\Debug\netstandard2.0\FlexLayoutEx2.dll
+F:\1\Chapter3\FlexLayoutEx2\FlexLayoutEx2\bin\Debug\netstandard2.0\ref\FlexLayoutEx2.dll
+F:\1\Chapter3\FlexLayoutEx2\FlexLayoutEx2\bin\Debug\netstandard2.0\FlexLayoutEx2.pdb
+F:\1\Chapter3\FlexLayoutEx2\FlexLayoutEx2\obj\Debug\netstandard2.0\FlexLayoutEx2.csprojAssemblyReference.cache
+F:\1\Chapter3\FlexLayoutEx2\FlexLayoutEx2\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\1\Chapter3\FlexLayoutEx2\FlexLayoutEx2\obj\Debug\netstandard2.0\FlexLayoutEx2.xaml.g.cs
+F:\1\Chapter3\FlexLayoutEx2\FlexLayoutEx2\obj\Debug\netstandard2.0\FlexLayoutEx2.AssemblyInfoInputs.cache
+F:\1\Chapter3\FlexLayoutEx2\FlexLayoutEx2\obj\Debug\netstandard2.0\FlexLayoutEx2.AssemblyInfo.cs
+F:\1\Chapter3\FlexLayoutEx2\FlexLayoutEx2\obj\Debug\netstandard2.0\XamlC.stamp
+F:\1\Chapter3\FlexLayoutEx2\FlexLayoutEx2\obj\Debug\netstandard2.0\FlexLayoutEx2.dll
+F:\1\Chapter3\FlexLayoutEx2\FlexLayoutEx2\obj\Debug\netstandard2.0\ref\FlexLayoutEx2.dll
+F:\1\Chapter3\FlexLayoutEx2\FlexLayoutEx2\obj\Debug\netstandard2.0\FlexLayoutEx2.pdb

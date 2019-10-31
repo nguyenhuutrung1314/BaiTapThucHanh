@@ -1,0 +1,13 @@
+F:\1\Chapter6\ListViewImageCell\ListViewImageCell\bin\Debug\netstandard2.0\ListViewImageCell.deps.json
+F:\1\Chapter6\ListViewImageCell\ListViewImageCell\bin\Debug\netstandard2.0\ListViewImageCell.dll
+F:\1\Chapter6\ListViewImageCell\ListViewImageCell\bin\Debug\netstandard2.0\ref\ListViewImageCell.dll
+F:\1\Chapter6\ListViewImageCell\ListViewImageCell\bin\Debug\netstandard2.0\ListViewImageCell.pdb
+F:\1\Chapter6\ListViewImageCell\ListViewImageCell\obj\Debug\netstandard2.0\ListViewImageCell.csprojAssemblyReference.cache
+F:\1\Chapter6\ListViewImageCell\ListViewImageCell\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\1\Chapter6\ListViewImageCell\ListViewImageCell\obj\Debug\netstandard2.0\ListViewImageCell.xaml.g.cs
+F:\1\Chapter6\ListViewImageCell\ListViewImageCell\obj\Debug\netstandard2.0\ListViewImageCell.AssemblyInfoInputs.cache
+F:\1\Chapter6\ListViewImageCell\ListViewImageCell\obj\Debug\netstandard2.0\ListViewImageCell.AssemblyInfo.cs
+F:\1\Chapter6\ListViewImageCell\ListViewImageCell\obj\Debug\netstandard2.0\XamlC.stamp
+F:\1\Chapter6\ListViewImageCell\ListViewImageCell\obj\Debug\netstandard2.0\ListViewImageCell.dll
+F:\1\Chapter6\ListViewImageCell\ListViewImageCell\obj\Debug\netstandard2.0\ref\ListViewImageCell.dll
+F:\1\Chapter6\ListViewImageCell\ListViewImageCell\obj\Debug\netstandard2.0\ListViewImageCell.pdb

@@ -1,0 +1,14 @@
+F:\1\Chapter6\ListViewGrouped\ListViewGrouped\bin\Debug\netstandard2.0\ListViewGrouped.deps.json
+F:\1\Chapter6\ListViewGrouped\ListViewGrouped\bin\Debug\netstandard2.0\ListViewGrouped.dll
+F:\1\Chapter6\ListViewGrouped\ListViewGrouped\bin\Debug\netstandard2.0\ref\ListViewGrouped.dll
+F:\1\Chapter6\ListViewGrouped\ListViewGrouped\bin\Debug\netstandard2.0\ListViewGrouped.pdb
+F:\1\Chapter6\ListViewGrouped\ListViewGrouped\obj\Debug\netstandard2.0\ListViewGrouped.csprojAssemblyReference.cache
+F:\1\Chapter6\ListViewGrouped\ListViewGrouped\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\1\Chapter6\ListViewGrouped\ListViewGrouped\obj\Debug\netstandard2.0\ListViewGrouped.xaml.g.cs
+F:\1\Chapter6\ListViewGrouped\ListViewGrouped\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\1\Chapter6\ListViewGrouped\ListViewGrouped\obj\Debug\netstandard2.0\ListViewGrouped.AssemblyInfoInputs.cache
+F:\1\Chapter6\ListViewGrouped\ListViewGrouped\obj\Debug\netstandard2.0\ListViewGrouped.AssemblyInfo.cs
+F:\1\Chapter6\ListViewGrouped\ListViewGrouped\obj\Debug\netstandard2.0\XamlC.stamp
+F:\1\Chapter6\ListViewGrouped\ListViewGrouped\obj\Debug\netstandard2.0\ListViewGrouped.dll
+F:\1\Chapter6\ListViewGrouped\ListViewGrouped\obj\Debug\netstandard2.0\ref\ListViewGrouped.dll
+F:\1\Chapter6\ListViewGrouped\ListViewGrouped\obj\Debug\netstandard2.0\ListViewGrouped.pdb
