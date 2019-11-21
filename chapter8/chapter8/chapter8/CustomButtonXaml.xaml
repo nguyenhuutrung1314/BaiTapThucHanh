@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:l="clr-namespace:chapter8"
+             mc:Ignorable="d"
+             x:Class="chapter8.CustomButtonXaml">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center">
+            <l:CustomButton Text="Custom Button" FontSize="Large" HorizontalOptions="Center" VerticalOptions="Fill" Clicked="ButtonClicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
