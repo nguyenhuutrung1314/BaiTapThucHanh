@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Chapter5.MainPage">
+
+    <StackLayout>
+        <Button Text="Behaviors" x:Name="cmdmot" Clicked="Cmdmot_Clicked"/>
+        <Button Text="ControlsViews" x:Name="cmdhai" Clicked="Cmdhai_Clicked"/>
+        <Button Text="Custom Control" x:Name="cmdba" Clicked="Cmdba_Clicked"/>
+        <Button Text="Triggers" x:Name="cmdbon" Clicked="Cmdbon_Clicked"/>
+    </StackLayout>
+
+</ContentPage>
